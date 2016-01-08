@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Physics_Environment
@@ -46,6 +39,14 @@ namespace Physics_Environment
         private void startJumpingForm_Click(object sender, EventArgs e)
         {
             JumpingForm form = new JumpingForm();
+            form.Closed += (o, args) => { Show(); };
+            Hide();
+            form.Show(this);
+        }
+
+        private void openFollowPlayerForm_Click(object sender, EventArgs e)
+        {
+            VectorTestingForm form = new VectorTestingForm();
             form.Closed += (o, args) => { Show(); };
             Hide();
             form.Show(this);

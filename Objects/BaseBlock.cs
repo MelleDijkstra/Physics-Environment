@@ -8,7 +8,6 @@ namespace Physics_Environment.Objects
         public double x;
         public double y;
         public int size;
-        public double speed;
         protected Brush color;
 
         public BaseBlock(int x, int y, int size)

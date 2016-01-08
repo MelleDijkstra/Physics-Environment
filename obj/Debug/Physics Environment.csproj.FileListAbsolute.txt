@@ -1,31 +1,15 @@
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\bin\Debug\Physics Environment.exe.config
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\bin\Debug\Physics Environment.exe
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\bin\Debug\Physics Environment.pdb
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.Properties.Resources.resources
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics Environment.csproj.GenerateResource.Cache
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics Environment.exe
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics Environment.pdb
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics Environment.csprojResolveAssemblyReference.cache
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.MainForm.resources
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.GravityTestForm.resources
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.BorderBouncingForm.resources
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.TurningObjectForm.resources
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.JumpingForm.resources
-D:\Documents\Documents\Visual Studio 2015\Projects\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.GameResources.resources
 D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\bin\Debug\Physics Environment.exe.config
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\bin\Debug\Physics Environment.exe
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\bin\Debug\Physics Environment.pdb
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics Environment.csprojResolveAssemblyReference.cache
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.BorderBouncingForm.resources
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.GravityTestForm.resources
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.JumpingForm.resources
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.MainForm.resources
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.Properties.Resources.resources
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.GameResources.resources
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.TurningObjectForm.resources
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.VectorTestingForm.resources
+D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics Environment.csproj.GenerateResource.Cache
 D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics Environment.exe
 D:\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics Environment.pdb
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\bin\Debug\Physics Environment.exe.config
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics Environment.exe
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics Environment.pdb
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\bin\Debug\Physics Environment.exe
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\bin\Debug\Physics Environment.pdb
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics Environment.csprojResolveAssemblyReference.cache
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.BorderBouncingForm.resources
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.GravityTestForm.resources
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.JumpingForm.resources
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.MainForm.resources
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.Properties.Resources.resources
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.GameResources.resources
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics_Environment.TurningObjectForm.resources
-C:\Users\melle\Google Drive\Workspace\Visual Studio\Physics Environment\Physics Environment\obj\Debug\Physics Environment.csproj.GenerateResource.Cache

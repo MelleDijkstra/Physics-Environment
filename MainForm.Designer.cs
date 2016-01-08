@@ -33,6 +33,7 @@
             this.startGravityTest = new System.Windows.Forms.Button();
             this.startBorderBouncingForm = new System.Windows.Forms.Button();
             this.startJumpingForm = new System.Windows.Forms.Button();
+            this.openFollowPlayerForm = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -85,11 +86,22 @@
             this.startJumpingForm.UseVisualStyleBackColor = true;
             this.startJumpingForm.Click += new System.EventHandler(this.startJumpingForm_Click);
             // 
+            // openFollowPlayerForm
+            // 
+            this.openFollowPlayerForm.Location = new System.Drawing.Point(193, 177);
+            this.openFollowPlayerForm.Name = "openFollowPlayerForm";
+            this.openFollowPlayerForm.Size = new System.Drawing.Size(147, 45);
+            this.openFollowPlayerForm.TabIndex = 5;
+            this.openFollowPlayerForm.Text = "Follow Player with Vectors";
+            this.openFollowPlayerForm.UseVisualStyleBackColor = true;
+            this.openFollowPlayerForm.Click += new System.EventHandler(this.openFollowPlayerForm_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(534, 252);
+            this.Controls.Add(this.openFollowPlayerForm);
             this.Controls.Add(this.startJumpingForm);
             this.Controls.Add(this.startBorderBouncingForm);
             this.Controls.Add(this.startGravityTest);
@@ -110,5 +122,6 @@
         private System.Windows.Forms.Button startGravityTest;
         private System.Windows.Forms.Button startBorderBouncingForm;
         private System.Windows.Forms.Button startJumpingForm;
+        private System.Windows.Forms.Button openFollowPlayerForm;
     }
 }

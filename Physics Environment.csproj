@@ -93,6 +93,8 @@
     <Compile Include="Objects\States\BaseState.cs" />
     <Compile Include="Objects\TurningBall.cs" />
     <Compile Include="Objects\Player.cs" />
+    <Compile Include="Physics\Point.cs" />
+    <Compile Include="Physics\Vector.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="GameResources.Designer.cs">
@@ -105,6 +107,13 @@
     </Compile>
     <Compile Include="TurningObjectForm.Designer.cs">
       <DependentUpon>TurningObjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects\VectorBall.cs" />
+    <Compile Include="VectorTestingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VectorTestingForm.Designer.cs">
+      <DependentUpon>VectorTestingForm.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="BorderBouncingForm.resx">
       <DependentUpon>BorderBouncingForm.cs</DependentUpon>
@@ -135,6 +144,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="TurningObjectForm.resx">
       <DependentUpon>TurningObjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VectorTestingForm.resx">
+      <DependentUpon>VectorTestingForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
